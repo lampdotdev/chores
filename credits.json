@@ -1,0 +1,16 @@
+{
+  "remixOf" : [
+    {
+      "name" : "Chores",
+      "starter" : "chores",
+      "url" : "https://github.com/lampdotdev/chores"
+    }
+  ],
+  "upstream" : [
+    {
+      "author" : "Bruno Bergher",
+      "name" : "Chores",
+      "url" : "https://github.com/brunobergher"
+    }
+  ]
+}

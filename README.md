@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/icon/icon.png" width="128" height="128" alt=""></p>
+
 <h1 align="center">Chores</h1>
 
 <p align="center">A sleek to-do list with projects, priorities and due dates you type in plain words.</p>
@@ -5,6 +7,8 @@
 <p align="center"><a href="https://lamp.dev/?repo=https://github.com/lampdotdev/chores&amp;from=readme"><img src=".github/open-in-lamp.svg" width="164" height="48" alt="Open in Lamp"></a></p>
 
 <p align="center"><a href="#build-it-yourself">Build it yourself</a></p>
+
+<p align="center"><img src=".github/preview.png" width="720" alt="Chores"></p>
 
 ## Make Chores yours
 
